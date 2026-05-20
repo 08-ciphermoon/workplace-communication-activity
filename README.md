@@ -24,6 +24,9 @@ BEGIN
         PRINT "Developer B: That panel is a CYELGA module. We should plan to retire it soon."
 
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
+
+        PRINT "A patch is small software update used to fix bugs, improve security, or enhance system performance."
+        
     END FUNCTION
 
     CALL MorningSyncMeeting()
